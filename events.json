@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "owner": "octocat",
+    "repo": "Hello-World",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World",
+    "starred_at": "2026-07-25T14:35:00Z"
+  },
+  {
+    "id": 2,
+    "owner": "nodejs",
+    "repo": "node",
+    "description": "Node.js JavaScript runtime",
+    "url": "https://github.com/nodejs/node",
+    "starred_at": "2026-07-26T09:20:00Z"
+  },
+  {
+    "id": 3,
+    "owner": "facebook",
+    "repo": "react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "url": "https://github.com/facebook/react",
+    "starred_at": "2026-07-27T16:05:00Z"
+  }
+]
